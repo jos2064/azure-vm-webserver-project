@@ -47,9 +47,9 @@ Successfully hosted a webpage accessible via public IP
 - SSH connection
 - Website output
 ## Key Learnings
-Azure VM provisioning
-SSH-based remote access
-Network security (NSG + firewall)
-Linux service management
-Troubleshooting low-memory issues using swap
-Hosting a web server on cloud infrastructure
+- Azure VM provisioning
+- SSH-based remote access
+- Network security (NSG + firewall)
+- Linux service management
+- Troubleshooting low-memory issues using swap
+- Hosting a web server on cloud infrastructure
