@@ -31,8 +31,8 @@ sudo firewall-cmd --permanent --add-service=http
 sudo firewall-cmd --reload
 ```
 6. Troubleshooting
-Encountered memory issue (“Killed” error)
-Resolved by adding swap memory:
+- Encountered memory issue (“Killed” error)
+- Resolved by adding swap memory:
 ```
 sudo fallocate -l 1G /swapfile
 sudo chmod 600 /swapfile
